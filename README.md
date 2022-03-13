@@ -15,7 +15,7 @@ You must have a functional installation of Rails and Ruby. There are many differ
 
 One tool to have in mind if you don't want to override your local ruby: rbenv
 
-Rails and ruby in general uses "gems" to extend their functinalities and `bundle` is a tool to facilitate the first installation.
+Rails and ruby in general uses "gems" to extend their functionalities and `bundle` is a tool to facilitate the first installation.
 
 It's up to you to navigate through that new ecosystem but if we had to do a parallel it's the same principle as npm, node modules and babel.
 
@@ -32,7 +32,7 @@ rails db:create
 rails db:migrate
 rails db:seed
 ```
-Once you have done the step above, run:
+Once you have done the steps above, run:
 ```
 rails s
 ```
@@ -77,6 +77,6 @@ Using the current endpoints in the application server, build a page which users 
 ## After you are done
 Please send me a link to your code repository at milad@aplyid.com. Installation instructions and how to run your project should be written in the README.
 
-We want you to complete the subject and can be of help for the setup of the environment. Passed that point you're on your own.
+We want you to complete the subject and can be of help for the setup of the environmentif you're really blocking on it. Passed that point you're on your own.
 
 Good luck ✌️
