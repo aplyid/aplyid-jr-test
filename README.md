@@ -24,7 +24,7 @@ The controller's code is voluntarily simple, it is up to you to make it better a
 There is a chance that you bump into CORS policies issues in the browser and/or from the API. To allow requests to be accepeted from a different domain in the API, look at `config/initializers/cors.rb`. Front end policies and configurations are your responsibility if necessary.
 
 ## Installation
-Please clone this repository first. 
+Please clone/fork this repository first and create a separate branch and then
 Run:
 ```
 bundle install
@@ -77,7 +77,7 @@ Using the current endpoints in the application server, build a page which users 
 - If you run the rails server and the front end server concurrently
 
 ## After you are done
-Please send me a link to your code repository at milad@aplyid.com. Installation instructions and how to run your project should be written in the README.
+Please create a pull request of your changes in your branch and add Milad and Eddy as reviwer to your pull request.
 
 We want you to complete the subject and can be of help for the setup of the environment you're really blocking on it. Passed that point you're on your own.
 
