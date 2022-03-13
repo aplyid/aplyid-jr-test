@@ -49,6 +49,7 @@ $> curl -G http://localhost:3000/api/v1/tasks
 ## Your tasks
 You have to build the front end for this application and add more features in the backend.
 all the required endpoints are already done for you, in order to see all the available routes, run: (take a look at api/v1 ones, you can ignore the `/rails/*`)
+You don't need to make a separate repo for the front end code, just add a new directory to this source code (for example, name it `client`) and add all your fronend code (HTML, CSS, Javascript etc) in that directory.
 ```
 rails routes
 ```
@@ -73,10 +74,11 @@ Using the current endpoints in the application server, build a page which users 
 
 ## Not required but extra bonus
 - Write automated test
+- If you run the rails server and the front end server concurrently
 
 ## After you are done
 Please send me a link to your code repository at milad@aplyid.com. Installation instructions and how to run your project should be written in the README.
 
-We want you to complete the subject and can be of help for the setup of the environmentif you're really blocking on it. Passed that point you're on your own.
+We want you to complete the subject and can be of help for the setup of the environment you're really blocking on it. Passed that point you're on your own.
 
 Good luck ✌️
